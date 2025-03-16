@@ -60,7 +60,7 @@ Installation
 
 Clone the repository:
 
-git clone <>
+git clone https://github.com/krish275890/health-care.git
 cd healthcare-clock
 
 Install dependencies:
